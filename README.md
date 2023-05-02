@@ -24,6 +24,10 @@ Prettier --> to format.
 2. Chart
 3. Map
 
+# API used for Map `https://disease.sh/v3/covid-19/countries`
+
+# API used for Chart `https://disease.sh/v3/covid-19/historical/all?lastdays=all`
+
 # Steps to start this application
 
 1. git clone repository to your local directory using --> https://github.com/mananjaykumar/taiyo-task.git OR Download the repository.
@@ -37,7 +41,6 @@ Prettier --> to format.
 4. `View Contact Details` will take you to the contact details page of that particular user.
 5. `Edit Contact` will take you to the edit page of that particular user
 6. `Delete Contact` will delete that particular user
-
 
 # Steps to view Map and Chart
 
