@@ -7,16 +7,16 @@ Chart will show about the cases fluctuations at different dates.
 
 # Technologies used in this application
 
-React Router --> to navigate through the routes.
-React Query --> for handling API calls and data management.
-Redux Toolkit --> for the State management as a central store.
-React Redux --> to connect react with redux.
-React Icons --> for icons.
-React Apexcharts --> to plot chart.
-React Leaflet --> to plot map.
-Axios --> for api calls.
-Tailwind CSS --> for css styles.
-Prettier --> to format.
+1. React Router --> to navigate through the routes.
+2. React Query --> for handling API calls and data management.
+3. Redux Toolkit --> for the State management as a central store.
+4. React Redux --> to connect react with redux.
+5. React Icons --> for icons.
+6. React Apexcharts --> to plot chart.
+7. React Leaflet --> to plot map.
+8. Axios --> for api calls.
+9. Tailwind CSS --> for css styles.
+10. Prettier --> to format.
 
 # Features in the application
 
