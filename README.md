@@ -24,9 +24,11 @@ Prettier --> to format.
 2. Chart
 3. Map
 
-# API used for Map `https://disease.sh/v3/covid-19/countries`
+# API used for Map
+1. `https://disease.sh/v3/covid-19/countries`4
 
-# API used for Chart `https://disease.sh/v3/covid-19/historical/all?lastdays=all`
+# API used for Chart
+1. `https://disease.sh/v3/covid-19/historical/all?lastdays=all`
 
 # Steps to start this application
 
